@@ -12,6 +12,7 @@ Atualmente estive ampliando os meus conhecimentos em tecnologia estudando desenv
 - 🎓 Graduação em Sistemas de Informação
 - 👨‍💼 Busco um local onde eu possa aplicar os meus conhecimento da área e crescer profissionalmente
 
+<br>
 <hr>
 
 <div>
