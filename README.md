@@ -1,7 +1,7 @@
 ### Olá! Me chamo Gabriel Reis e possuo um pouco mais de 10 anos de vivência em TI 
 Atualmente estive ampliando os meus conhecimentos em tecnologia estudando desenvolvimento web.
 
-<br>
+
 
 <hr>
 <img align="right" height="170" alt="gif" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
