@@ -6,7 +6,7 @@ Atualmente estive ampliando os meus conhecimentos em tecnologia estudando desenv
 <hr>
 <img align="right" height="170" alt="gif" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
 
-- 👨‍💻 Desenvolvedor Front-End JR
+- 👨‍💻 Desenvolvedor Web 
 - 💻 Suporte técnico em TI
 - 💻 HelpDesk
 - 🎓 Graduação em Sistemas de Informação
