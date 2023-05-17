@@ -9,7 +9,7 @@ Atualmente estive ampliando os meus conhecimentos em tecnologia estudando desenv
 - 👨‍💻 Desenvolvedor Web 
 - 💻 Suporte técnico em TI
 - 💻 HelpDesk
-- 🎓 Graduação em Sistemas de Informação
+- 🎓 Bacharel em Sistemas de Informação
 - 👨‍💼 Busco um local onde eu possa aplicar os meus conhecimento da área e crescer profissionalmente
 
 <br>
