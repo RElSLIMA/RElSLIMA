@@ -1,6 +1,4 @@
-### Olá! Me chamo Gabriel Reis e possuo um pouco mais de 10 anos de vivência em TI 
-Atualmente estive ampliando os meus conhecimentos em tecnologia estudando desenvolvimento web.
-
+### Olá! Me chamo Gabriel, sou um desenvolvedor Fullstack com mais de um ano de experiência na área. Minha atuação tem sido focada em projetos de sistemas de gestão, nos quais utilizo PHP, especificamente o framework Laravel, além de Javascript e SQL.
 <br>
 
 <hr>
