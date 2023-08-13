@@ -1,4 +1,5 @@
-### Olá! Me chamo Gabriel, sou um desenvolvedor Fullstack com mais de um ano de experiência na área. Minha atuação tem sido focada em projetos de sistemas de gestão, nos quais utilizo PHP, especificamente o framework Laravel, além de Javascript e SQL.
+### Olá! Me chamo Gabriel, sou um desenvolvedor Fullstack com mais de um ano de experiência na área. 
+Minha atuação tem sido focada em projetos de sistemas de gestão, nos quais utilizo PHP, especificamente o framework Laravel, além de Javascript e SQL.
 <br>
 
 <hr>
