@@ -9,6 +9,7 @@ Minha atuação tem sido focada em projetos de sistemas de gestão, nos quais ut
 - 💻 Suporte técnico em TI
 - 💻 HelpDesk
 - 🎓 Bacharel em Sistemas de Informação 
+- 🎓 Cursando a Pós em Engenharia de Software
 
 <br>
 <hr>
