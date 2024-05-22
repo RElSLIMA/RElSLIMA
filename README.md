@@ -18,7 +18,7 @@ Minha atuação tem sido focada em projetos de sistemas de gestão, nos quais ut
   <a href="https://github.com/RElSLIMA">
   <img width=50% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=RElSLIMA&theme=ocean_dark&locale=pt_BR" alt="GitHub Streak" />
   &nbsp;&nbsp;
-  <img width=50% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RElSLIMA&layout=compact&langs_count=7&theme=ocean_dark"/>  
+  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RElSLIMA&layout=compact&langs_count=7&theme=ocean_dark"/>  
 </div>
   
 <hr>
