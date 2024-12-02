@@ -5,11 +5,11 @@ Minha atuação tem sido focada em projetos de sistemas de gestão, nos quais ut
 <hr>
 <img align="right" height="170" alt="gif" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
 
-- 👨‍💻 Desenvolvedor Web 
+- 👨‍💻 Desenvolvedor Full Stack
 - 💻 Suporte técnico em TI
 - 💻 HelpDesk
 - 🎓 Bacharel em Sistemas de Informação 
-- 🎓 Cursando a Pós em Engenharia de Software
+- 🎓 Pós-graduado em Engenharia de Software
 
 <br>
 <hr>
