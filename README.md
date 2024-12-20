@@ -1,7 +1,7 @@
 ### Olá! Me chamo Gabriel, sou um desenvolvedor Fullstack com mais de três anos de experiência na área. 
 Minha atuação tem sido focada em projetos de sistemas de gestão, nos quais utilizo PHP, especificamente o framework Laravel, além de Javascript e SQL. 
 <br>
- 
+
 <hr>
 <img align="right" height="170" alt="gif" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
 
