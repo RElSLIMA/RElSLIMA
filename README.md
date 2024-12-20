@@ -3,7 +3,7 @@ Minha atuação tem sido focada em projetos de sistemas de gestão, nos quais ut
 <br>
 
 <hr>
-<img align="right" height="170" alt="gif" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
+<img align="right" height="170" alt="gif" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif"> 
 
 - 👨‍💻 Desenvolvedor Full Stack
 - 💻 Suporte técnico em TI
