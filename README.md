@@ -11,7 +11,6 @@ Minha atuação tem sido focada em projetos de sistemas de gestão, nos quais ut
 - 🎓 Bacharel em Sistemas de Informação 
 - 🎓 Pós-graduado em Engenharia de Software
 
-<br>
 <hr>
 
 <div>
