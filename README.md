@@ -6,8 +6,6 @@ Minha principal stack envolve React no front-end e Laravel (PHP) no back-end, un
 <img align="right" height="170" alt="gif" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
 
 - 👨‍💻 Desenvolvedor Full Stack
-- 💻 Suporte técnico em TI
-- 💻 HelpDesk
 - 🎓 Bacharel em Sistemas de Informação 
 - 🎓 Pós-graduado em Engenharia de Software
 
